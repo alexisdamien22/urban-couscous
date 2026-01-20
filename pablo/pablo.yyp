@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":2,
   "Folders":[],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
@@ -19,6 +19,7 @@
   },
   "name":"pablo",
   "resources":[
+    {"id":{"name":"combat_normal","path":"objects/combat_normal/combat_normal.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Clock_normal","path":"sprites/Clock_normal/Clock_normal.yy",},},
     {"id":{"name":"Clock_reversed","path":"sprites/Clock_reversed/Clock_reversed.yy",},},
