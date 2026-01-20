@@ -6,9 +6,9 @@ randomize();
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 393E7FE7
-/// @DnDArgument : "expr" "irandom(359)"
+/// @DnDArgument : "expr" "irandom(23)  * 15"
 /// @DnDArgument : "var" "cone_angle"
-cone_angle = irandom(359);
+cone_angle = irandom(23)  * 15;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
