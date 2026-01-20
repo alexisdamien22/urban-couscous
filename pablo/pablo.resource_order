@@ -1,4 +1,7 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Clock_normal","order":1,"path":"sprites/Clock_normal/Clock_normal.yy",},
+    {"name":"Clock_reversed","order":2,"path":"sprites/Clock_reversed/Clock_reversed.yy",},
+  ],
 }

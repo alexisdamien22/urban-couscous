@@ -20,6 +20,8 @@
   "name":"pablo",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Clock_normal","path":"sprites/Clock_normal/Clock_normal.yy",},},
+    {"id":{"name":"Clock_reversed","path":"sprites/Clock_reversed/Clock_reversed.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
