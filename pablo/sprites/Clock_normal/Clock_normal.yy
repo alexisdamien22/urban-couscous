@@ -48,8 +48,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"pablo",
-    "path":"pablo.yyp",
+    "name":"clock",
+    "path":"folders/clock.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

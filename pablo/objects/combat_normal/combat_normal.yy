@@ -10,8 +10,8 @@
   "name":"combat_normal",
   "overriddenProperties":[],
   "parent":{
-    "name":"pablo",
-    "path":"pablo.yyp",
+    "name":"clock",
+    "path":"folders/clock.yy",
   },
   "parentObjectId":null,
   "persistent":false,
