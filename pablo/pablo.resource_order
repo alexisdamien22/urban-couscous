@@ -3,8 +3,8 @@
     {"name":"clock","order":5,"path":"folders/clock.yy",},
     {"name":"pablo","order":6,"path":"folders/pablo.yy",},
     {"name":"scene1","order":7,"path":"folders/scene1.yy",},
-    {"name":"dialogue_stuff","order":3,"path":"folders/scene1/dialogue_stuff.yy",},
     {"name":"assets","order":4,"path":"folders/scene1/assets.yy",},
+    {"name":"dialogue_stuff","order":3,"path":"folders/scene1/dialogue_stuff.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"fnt_dialogue","order":2,"path":"fonts/fnt_dialogue/fnt_dialogue.yy",},
