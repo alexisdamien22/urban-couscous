@@ -10,8 +10,8 @@
   "name":"dialogue_obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"scene1",
-    "path":"folders/scene1.yy",
+    "name":"dialogue_stuff",
+    "path":"folders/scene1/dialogue_stuff.yy",
   },
   "parentObjectId":null,
   "persistent":false,

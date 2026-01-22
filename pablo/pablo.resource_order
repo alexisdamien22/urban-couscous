@@ -1,8 +1,10 @@
 {
   "FolderOrderSettings":[
     {"name":"clock","order":5,"path":"folders/clock.yy",},
-    {"name":"scene1","order":7,"path":"folders/scene1.yy",},
     {"name":"pablo","order":6,"path":"folders/pablo.yy",},
+    {"name":"scene1","order":7,"path":"folders/scene1.yy",},
+    {"name":"dialogue_stuff","order":3,"path":"folders/scene1/dialogue_stuff.yy",},
+    {"name":"assets","order":4,"path":"folders/scene1/assets.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"fnt_dialogue","order":2,"path":"fonts/fnt_dialogue/fnt_dialogue.yy",},
@@ -13,5 +15,6 @@
     {"name":"pabloBack","order":5,"path":"sprites/pabloBack/pabloBack.yy",},
     {"name":"pabloLeft","order":4,"path":"sprites/pabloLeft/pabloLeft.yy",},
     {"name":"pabloRight","order":3,"path":"sprites/pabloRight/pabloRight.yy",},
+    {"name":"TileSet1","order":1,"path":"tilesets/TileSet1/TileSet1.yy",},
   ],
 }
