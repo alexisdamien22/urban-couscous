@@ -11,6 +11,7 @@
   "defaultScriptType":2,
   "Folders":[
     {"$GMFolder":"","%Name":"clock","folderPath":"folders/clock.yy","name":"clock","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"scene1","folderPath":"folders/scene1.yy","name":"scene1","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"pablo","folderPath":"folders/pablo.yy","name":"pablo","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
@@ -22,11 +23,14 @@
   },
   "name":"pablo",
   "resources":[
+    {"id":{"name":"fnt_dialogue","path":"fonts/fnt_dialogue/fnt_dialogue.yy",},},
     {"id":{"name":"combat_normal","path":"objects/combat_normal/combat_normal.yy",},},
+    {"id":{"name":"dialogue_obj","path":"objects/dialogue_obj/dialogue_obj.yy",},},
     {"id":{"name":"movement","path":"objects/movement/movement.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Clock_normal","path":"sprites/Clock_normal/Clock_normal.yy",},},
     {"id":{"name":"Clock_reversed","path":"sprites/Clock_reversed/Clock_reversed.yy",},},
+    {"id":{"name":"dialogue_box","path":"sprites/dialogue_box/dialogue_box.yy",},},
     {"id":{"name":"pabloBack","path":"sprites/pabloBack/pabloBack.yy",},},
     {"id":{"name":"pabloFront","path":"sprites/pabloFront/pabloFront.yy",},},
     {"id":{"name":"pabloLeft","path":"sprites/pabloLeft/pabloLeft.yy",},},
