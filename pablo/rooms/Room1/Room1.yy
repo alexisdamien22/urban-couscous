@@ -11,13 +11,14 @@
   "isDnd":false,
   "layers":[
     {"$GMRTileLayer":"","%Name":"Tiles_1","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_1","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":19,"SerialiseWidth":30,"TileCompressedData":[
-          -14,5,1,1,-12,5,1,1,-7,5,1,1,-10,5,1,1,-9,5,3,1,5,1,-12,5,1,1,-5,5,1,1,-20,5,1,1,-6,5,9,1,5,5,1,5,5,
-          1,5,1,-11,5,1,1,-4,5,1,1,-5,5,4,1,5,5,1,-12,5,1,1,-22,5,1,1,-3,5,1,1,-4,5,-2,1,-17,5,4,1,5,1,1,-7,5,
-          -2,1,-7,5,6,1,5,1,1,5,1,-3,5,1,1,-10,5,1,1,-10,5,1,1,-29,5,1,1,-6,5,1,1,-14,5,-2,1,3,5,1,1,-5,5,1,1,
-          -9,5,-2,1,-10,5,1,1,-4,5,1,1,-3,5,1,1,-6,5,-2,1,-6,5,1,1,-3,5,-2,1,-2,5,1,1,-5,5,-2,1,-13,5,1,1,-7,5,
-          3,1,5,1,-19,5,1,1,-4,5,-2,1,2,5,1,-3,5,-2,1,-10,5,3,1,5,1,-17,5,1,1,-3,5,1,1,-24,5,1,1,-16,5,1,1,-28,
-          5,1,1,-5,5,1,1,-23,5,
-        ],"TileDataFormat":1,},"tilesetId":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+          4,2,1,1,2,-5,1,1,2,-3,1,1,2,-5,1,1,2,-6,1,1,2,-4,1,-2,2,-5,1,1,2,-35,1,-2,2,-6,1,1,2,-3,1,1,2,-6,1,7,
+          2,1,1,2,1,2,2,-17,1,1,2,-6,1,5,2,1,2,1,2,-10,1,1,2,-7,1,4,2,1,1,2,-4,1,10,2,1,1,2,1,2,1,1,2,2,-11,1,
+          1,2,-4,1,1,2,-6,1,5,2,1,1,2,2,-3,1,-2,2,2,1,2,-6,1,-2,2,4,1,2,1,2,-5,1,-2,2,-4,1,1,2,-13,1,1,2,-17,1,
+          1,2,-4,1,-2,2,-10,1,1,2,-14,1,1,2,-9,1,1,2,-5,1,1,2,-5,1,3,2,1,2,-5,1,1,2,-5,1,1,2,-9,1,1,2,-6,1,4,2,
+          1,1,2,-3,1,1,2,-4,1,1,2,-3,1,1,2,-6,1,-2,2,-4,1,1,2,-18,1,1,2,-4,1,-2,2,-11,1,4,2,1,1,2,-8,1,1,2,-6,
+          1,4,2,1,1,2,-7,1,2,2,1,-3,2,-2,1,1,2,-26,1,-3,2,-16,1,-3,2,-4,1,2,2,1,-3,2,-4,1,1,2,-24,1,1,2,-22,1,
+          -2,2,-15,1,
+        ],"TileDataFormat":1,},"tilesetId":{"name":"TileSet32Bits","path":"tilesets/TileSet32Bits/TileSet32Bits.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_22406129","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_22406129","objectId":{"name":"dialogue_obj","path":"objects/dialogue_obj/dialogue_obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":347.0,"y":288.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
@@ -25,8 +26,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"pablo",
-    "path":"pablo.yyp",
+    "name":"scene1",
+    "path":"folders/scene1.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

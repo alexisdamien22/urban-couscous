@@ -14,3 +14,12 @@ image_index = 0;
 /// @DnDArgument : "y" "-2"
 /// @DnDArgument : "y_relative" "1"
 x += 0;y += -2;
+
+/// @DnDAction : YoYo Games.Tiles.Tile_Get_At_Pixel
+/// @DnDVersion : 1
+/// @DnDHash : 570228B8
+/// @DnDArgument : "x_relative" "1"
+/// @DnDArgument : "y" "-2"
+/// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "layername" ""collision_layer""
+var l570228B8_0 = layer_tilemap_get_id("collision_layer");variable = undefined;if(l570228B8_0 > -1) {	var l570228B8_1 = tilemap_get_at_pixel(l570228B8_0, x + 0, y + -2);	if(l570228B8_1 > -1) variable = tile_get_index(l570228B8_1);}
