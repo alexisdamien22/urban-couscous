@@ -46,6 +46,8 @@
     {"id":{"name":"pabloFront","path":"sprites/pabloFront/pabloFront.yy",},},
     {"id":{"name":"pabloLeft","path":"sprites/pabloLeft/pabloLeft.yy",},},
     {"id":{"name":"pabloRight","path":"sprites/pabloRight/pabloRight.yy",},},
+    {"id":{"name":"pabloWalkLeft","path":"sprites/pabloWalkLeft/pabloWalkLeft.yy",},},
+    {"id":{"name":"pabloWalkRight","path":"sprites/pabloWalkRight/pabloWalkRight.yy",},},
     {"id":{"name":"spritesheet16b","path":"sprites/spritesheet16b/spritesheet16b.yy",},},
     {"id":{"name":"spritesheet32b","path":"sprites/spritesheet32b/spritesheet32b.yy",},},
     {"id":{"name":"TileSet16Bits","path":"tilesets/TileSet16Bits/TileSet16Bits.yy",},},
