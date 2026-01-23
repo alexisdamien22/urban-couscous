@@ -12,6 +12,7 @@
   "Folders":[
     {"$GMFolder":"","%Name":"clock","folderPath":"folders/clock.yy","name":"clock","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Geoffroy","folderPath":"folders/Geoffroy.yy","name":"Geoffroy","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"scene2","folderPath":"folders/scene2.yy","name":"scene2","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"pablo","folderPath":"folders/pablo.yy","name":"pablo","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"scene1","folderPath":"folders/scene1.yy","name":"scene1","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"assets","folderPath":"folders/scene1/assets.yy","name":"assets","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -32,6 +33,7 @@
     {"id":{"name":"dialogue_obj","path":"objects/dialogue_obj/dialogue_obj.yy",},},
     {"id":{"name":"movement","path":"objects/movement/movement.yy",},},
     {"id":{"name":"cell_inside","path":"rooms/cell_inside/cell_inside.yy",},},
+    {"id":{"name":"hallway","path":"rooms/hallway/hallway.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Clock_normal","path":"sprites/Clock_normal/Clock_normal.yy",},},
     {"id":{"name":"Clock_reversed","path":"sprites/Clock_reversed/Clock_reversed.yy",},},
@@ -54,6 +56,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"cell_inside","path":"rooms/cell_inside/cell_inside.yy",},},
+    {"roomId":{"name":"hallway","path":"rooms/hallway/hallway.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
