@@ -12,12 +12,12 @@
   "Folders":[
     {"$GMFolder":"","%Name":"clock","folderPath":"folders/clock.yy","name":"clock","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Geoffroy","folderPath":"folders/Geoffroy.yy","name":"Geoffroy","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"scene2","folderPath":"folders/scene2.yy","name":"scene2","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"pablo","folderPath":"folders/pablo.yy","name":"pablo","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"scene1","folderPath":"folders/scene1.yy","name":"scene1","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"assets","folderPath":"folders/scene1/assets.yy","name":"assets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"tile_set","folderPath":"folders/scene1/assets/tile_set.yy","name":"tile_set","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"dialogue_stuff","folderPath":"folders/scene1/dialogue_stuff.yy","name":"dialogue_stuff","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"scene2","folderPath":"folders/scene2.yy","name":"scene2","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],

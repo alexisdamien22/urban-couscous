@@ -1,11 +1,11 @@
 {
   "FolderOrderSettings":[
     {"name":"Geoffroy","order":3,"path":"folders/Geoffroy.yy",},
-    {"name":"scene2","order":4,"path":"folders/scene2.yy",},
     {"name":"pablo","order":1,"path":"folders/pablo.yy",},
     {"name":"scene1","order":2,"path":"folders/scene1.yy",},
     {"name":"assets","order":1,"path":"folders/scene1/assets.yy",},
     {"name":"tile_set","order":2,"path":"folders/scene1/assets/tile_set.yy",},
+    {"name":"scene2","order":4,"path":"folders/scene2.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"fnt_dialogue","order":2,"path":"fonts/fnt_dialogue/fnt_dialogue.yy",},
