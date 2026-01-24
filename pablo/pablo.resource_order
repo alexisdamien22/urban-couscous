@@ -41,6 +41,7 @@
     {"name":"portrait","order":4,"path":"sprites/portrait/portrait.yy",},
     {"name":"Sprite21","order":5,"path":"sprites/Sprite21/Sprite21.yy",},
     {"name":"Sprite25","order":4,"path":"sprites/Sprite25/Sprite25.yy",},
+    {"name":"Sprite28","order":3,"path":"sprites/Sprite28/Sprite28.yy",},
     {"name":"spritesheet16b","order":1,"path":"sprites/spritesheet16b/spritesheet16b.yy",},
     {"name":"TileSet16Bits","order":1,"path":"tilesets/TileSet16Bits/TileSet16Bits.yy",},
   ],

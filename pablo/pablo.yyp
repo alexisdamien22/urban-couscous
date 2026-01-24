@@ -67,6 +67,7 @@
     {"id":{"name":"portrait","path":"sprites/portrait/portrait.yy",},},
     {"id":{"name":"Sprite21","path":"sprites/Sprite21/Sprite21.yy",},},
     {"id":{"name":"Sprite25","path":"sprites/Sprite25/Sprite25.yy",},},
+    {"id":{"name":"Sprite28","path":"sprites/Sprite28/Sprite28.yy",},},
     {"id":{"name":"spritesheet16b","path":"sprites/spritesheet16b/spritesheet16b.yy",},},
     {"id":{"name":"spritesheet32b","path":"sprites/spritesheet32b/spritesheet32b.yy",},},
     {"id":{"name":"TileSet16Bits","path":"tilesets/TileSet16Bits/TileSet16Bits.yy",},},
