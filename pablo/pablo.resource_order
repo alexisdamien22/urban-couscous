@@ -28,6 +28,7 @@
     {"name":"GeoffroyBack","order":1,"path":"sprites/GeoffroyBack/GeoffroyBack.yy",},
     {"name":"GeoffroyLeft","order":2,"path":"sprites/GeoffroyLeft/GeoffroyLeft.yy",},
     {"name":"GeoffroyRight","order":3,"path":"sprites/GeoffroyRight/GeoffroyRight.yy",},
+    {"name":"geolier_1","order":5,"path":"sprites/geolier_1/geolier_1.yy",},
     {"name":"guard_trigger","order":2,"path":"sprites/guard_trigger/guard_trigger.yy",},
     {"name":"pabloBack","order":5,"path":"sprites/pabloBack/pabloBack.yy",},
     {"name":"pabloLeft","order":4,"path":"sprites/pabloLeft/pabloLeft.yy",},

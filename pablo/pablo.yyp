@@ -52,6 +52,7 @@
     {"id":{"name":"GeoffroyFront","path":"sprites/GeoffroyFront/GeoffroyFront.yy",},},
     {"id":{"name":"GeoffroyLeft","path":"sprites/GeoffroyLeft/GeoffroyLeft.yy",},},
     {"id":{"name":"GeoffroyRight","path":"sprites/GeoffroyRight/GeoffroyRight.yy",},},
+    {"id":{"name":"geolier_1","path":"sprites/geolier_1/geolier_1.yy",},},
     {"id":{"name":"geolier","path":"sprites/geolier/geolier.yy",},},
     {"id":{"name":"guard_trigger","path":"sprites/guard_trigger/guard_trigger.yy",},},
     {"id":{"name":"pabloBack","path":"sprites/pabloBack/pabloBack.yy",},},
