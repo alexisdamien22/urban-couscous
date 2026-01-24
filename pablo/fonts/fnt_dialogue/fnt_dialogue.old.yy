@@ -267,8 +267,8 @@
   "maintainGms1Font":false,
   "name":"fnt_dialogue",
   "parent":{
-    "name":"scene1",
-    "path":"folders/scene1.yy",
+    "name":"dialogue_stuff",
+    "path":"folders/scene1/dialogue_stuff.yy",
   },
   "pointRounding":0,
   "ranges":[
